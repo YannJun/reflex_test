@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger: Reflex",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "reflex",
+            "args": [
+                "run"
+            ],
+        }
+    ]
+}
